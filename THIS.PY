@@ -1,0 +1,11 @@
+zaza(52)
+lika(42)
+luka(14)    
+lasha(10)
+giorgi(8)
+
+print zaza(57)
+print lika(47)
+print luka(19)
+print lasha(15)
+print gio(13)
